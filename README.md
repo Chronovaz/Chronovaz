@@ -15,7 +15,7 @@
 - 🎮 Coding like it’s Elden Ring — mostly suffering, sometimes genius
 - 🌙 Night owl with VSCode and lo-fi beats
 
-
+---
 <details>
   <summary>🧠 About Me (click to expand)</summary>
 
