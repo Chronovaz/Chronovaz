@@ -15,6 +15,20 @@
 - 🎮 Coding like it’s Elden Ring — mostly suffering, sometimes genius
 - 🌙 Night owl with VSCode and lo-fi beats
 
+
+<details>
+  <summary>🧠 About Me (click to expand)</summary>
+
+  <br/>
+
+  - 🐍 Code alchemist turning bugs into features  
+  - 🌌 Living in dark mode since birth  
+  - 💥 Building weird stuff with React, Node & pure chaos  
+  - 🧃 Fueled by 3AM logic and lo-fi loops  
+  - 👁️ Half human, half syntax error — always watching the logs  
+</details>
+  
+
 ---
 
 ### 🛠️ Tech Stack
