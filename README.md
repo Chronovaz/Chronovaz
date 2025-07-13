@@ -1,9 +1,9 @@
 <h1 align="center">Yo 👾 I'm Nova (aka chronovaz)</h1>
-<h3 align="center">404 vibes not found | Just a bunch of 1s and 0s tryna be cool</h3>
+<p align="center">404 vibes not found | Just a bunch of 1s and 0s tryna be cool</p>
 
 <!-- ✅ Matrix Background -->
 <p align="center">
-  <img src="b3621d38459ff52a11a32e31e0020420.jpg" width="100%" />
+  <img src="03f3388017974120a109da5a6c1df75b57c6dcf5.gif" width="100%" />
 </p>
 
 ---
