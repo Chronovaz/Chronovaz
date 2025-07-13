@@ -1,24 +1,23 @@
-<!-- Profile Header -->
 <h1 align="center">Yo 👾 I'm Nova (aka chronovaz)</h1>
 <h3 align="center">404 vibes not found | Just a bunch of 1s and 0s with a caffeine addiction ☕</h3>
 
-<!-- Matrix Hack Background (with GIF) -->
+<!-- Matrix Background Vibes -->
 <p align="center">
   <img src="https://i.gifer.com/origin/e3/e3ccab4b83f86b5cf625c462b6f7aa4c.gif" width="100%" />
 </p>
 
 ---
 
-### 👩‍💻 Who Dis?
+### 🧠 About Me
 
-- 🧪 Self-taught dev breaking stuff since day 1
-- 🧠 Big on backend, AI things & shady React hacks
-- 🎮 Living inside VSCode
-- 🔮 Goal: Make code that looks like sorcery
+- 💻 Self-taught dev in a long-term relationship with `console.log()`
+- 🧪 Currently experimenting with React, Next.js, Node.js and backend magic
+- 🎮 Gaming with code like it’s Elden Ring: hard, painful, but satisfying
+- 😵‍💫 Code at 2am hits different
 
 ---
 
-### 🛠️ Tech Stack (yes I stole icons)
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,mongodb,vite,tailwind,prisma,git,github,figma&theme=dark" />
@@ -26,30 +25,43 @@
 
 ---
 
-### 🎧 Spotify Vibe Check
-
-> What am I coding to right now?
+### 🎧 Now Playing on Spotify
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31n6lrgolra2zgw6uz7x4kzdz5r4&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31n6lrgolra2zgw6uz7x4kzdz5r4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+  <a href="https://open.spotify.com/user/31e2uphld3nlxackgm2mxijtji6a">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31e2uphld3nlxackgm2mxijtji6a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
   </a>
 </p>
-
-> 🔁 Replace `uid=` with your actual Spotify user ID
 
 ---
 
-### 📺 Anime Widget (yes, for the culture)
+### 📺 My Anime World
 
 <p align="center">
-  <a href="https://anilist.co/user/yourUsername">
-    <img src="https://lanyard.cnrad.dev/api/yourDiscordID?theme=dark&bg=00000060&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=watching anime & coding..." />
+  <a href="https://anilist.co/user/Chronova/">
+    <img src="https://anilist-readme-stats.vercel.app/api?username=Chronova&align=center&theme=dark&borderColor=ffffff" />
   </a>
 </p>
 
-> 🔧 Replace `yourDiscordID` or use AniList widget like below 👇
+---
 
-```html
-<!-- OR use AniList widget -->
-<iframe src="https://anilist.co/user/yourAniListUsername/widget" width="100%" height="250" frameborder="0"></iframe>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chronovaz&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chronovaz&theme=tokyonight" />
+</p>
+
+---
+
+### 🧃 Tech Stack Showdown
+
+```diff
++ JavaScript
++ Node.js
++ React
+- Kubernetes
++ MongoDB
+- Rust
++ Tailwind CSS
