@@ -25,26 +25,6 @@
 
 ---
 
-### 📺 My Anime World
-
-<p align="center">
-  <a href="https://anilist.co/user/Chronova/">
-    <img src="https://anilist-readme-stats.vercel.app/api?username=Chronova&align=center&theme=dark&borderColor=ffffff" />
-  </a>
-</p>
-
----
-
-### 🧍‍♀️ Waifu Vibes
-
-<p align="center">
-  <img src="https://media.tenor.com/VkOdsHF-QcMAAAAC/anime-girl.gif" width="280px" />
-</p>
-
-<p align="center"><i>Dark & chill waifu watching you debug silently 👁️🖤</i></p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
