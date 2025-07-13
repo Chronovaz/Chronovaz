@@ -1,4 +1,4 @@
-<h1 align="center">Heya 👋, I'm Nova</h1>
+<h1 align="center">Heya 👋, I'm Noah</h1>
 <h3 align="center">Just a bunch of 1s and 0s pretending to be cool 😎</h3>
 
 ---
@@ -17,7 +17,10 @@
 ```diff
 + JavaScript
 + Node.js
+- Typescript (hate it 😑)
++ Nodemon
 + React
++ Nextjs
 - Kubernetes (pls no judge 😭)
 + MongoDB
 - Rust (looked cool, brain said nope)
