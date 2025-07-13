@@ -3,7 +3,7 @@
 
 <!-- Matrix Background -->
 <p align="center">
-  <img src="https://i.gifer.com/origin/e3/e3ccab4b83f86b5cf625c462b6f7aa4c.gif" width="100%" />
+  <img src="https://i.gifer.com/7efs.gif" width="100%" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ### 🧍‍♀️ Waifu Vibes
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bd/5e/8b/bd5e8b52dc3c9e7c420b0de0ef3782b0.gif" width="280px" style="border-radius:10px;" />
+  <img src="https://i.pinimg.com/originals/bd/5e/8b/bd5e8b52dc3c9e7c420b0de0ef3782b0.gif" width="280px" />
 </p>
 
 <p align="center"><i>Dark & chill waifu watching you debug silently 👁️🖤</i></p>
