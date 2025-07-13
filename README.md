@@ -17,7 +17,7 @@
 
 ---
 <details>
-  <summary>🧠 About Me (click to expand)</summary>
+  <summary>see more about me...</summary>
 
   <br/>
 
@@ -55,7 +55,13 @@
 + JavaScript
 + Node.js
 + React
+- Typescript
++ Python
 - Kubernetes
 + MongoDB
 - Rust
++ mongoose
++ vite
++ express.js
++ Nodemon
 + Tailwind CSS
