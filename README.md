@@ -1,28 +1,18 @@
-<h1 align="center">Heya 👋, I'm Noah</h1>
-<h3 text-sm align="center">Just a bunch of 1s and 0s pretending to be cool 😎</h3>
+<h1 align="center">Yo 👋, I'm Nova aka chronovaz</h1>
+<h3 align="center">404 personality not found | Just a bunch of 1s and 0s</h3>
 
 ---
 
 ### 🧠 About Me
-- 🐣 Self-taught code gremlin tryna be less trash
-- 💻 Building backend stuff + breaking frontends
-- 🧪 Currently experimenting with: `Next.js`, `Node`, and `Tails of Wind CSS`
-- 🧩 Fun fact: I use `console.log` like it’s my therapy
+- 💻 Self-taught dev stuck in a loop of `debug > cry > fix > repeat`
+- 🚧 Currently building: weird web apps that mostly work
+- 🌌 Exploring the multiverse of code: React, Next.js, AI, and backend sorcery
+- 🧃 Fun fact: I don't comment my code... it's a mystery for future me
 
 ---
 
-### 🛠️ Tech Stack Game 🎮
-> Try to guess which techs I actually know vs just copy-paste for ✨aesthetic✨
+### 🛠️ Tech Stack
 
-```diff
-+ JavaScript
-+ Node.js
-- Typescript (hate it 😑)
-+ Nodemon
-+ React
-+ Python
-+ Nextjs
-- Kubernetes (pls no judge 😭)
-+ MongoDB
-- Rust (looked cool, brain said nope)
-+ Tailwind CSS
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original
