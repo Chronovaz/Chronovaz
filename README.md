@@ -3,7 +3,7 @@
 
 <!-- ✅ Matrix Background -->
 <p align="center">
-  <img src="https://media.tenor.com/ONZC5p6kuxMAAAAC/matrix-code.gif" width="100%" />
+  <img src="b3621d38459ff52a11a32e31e0020420.jpg" width="100%" />
 </p>
 
 ---
