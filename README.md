@@ -25,21 +25,13 @@
 
 ---
 
-### 🎧 Find Me on Spotify
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31e2uphld3nlxackgm2mxijtji6a">
-    <img src="https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</p>
-
----
 
 ### 📺 My Anime World
 
 <p align="center">
-  <a href="https://anilist.co/user/Chronova/">
-    <img src="https://anilist-readme-stats.vercel.app/api?username=Chronova&align=center&theme=dark&borderColor=ffffff" />
+  <a href="https://anilist.co/user/chronova/">
+    <img src="https://anilist-readme-stats.vercel.app/api?username=chronova&align=center&theme=dark&borderColor=ffffff" />
   </a>
 </p>
 
