@@ -25,11 +25,11 @@
 
 ---
 
-### 🎧 Now Playing on Spotify
+### 🎧 Find Me on Spotify
 
 <p align="center">
   <a href="https://open.spotify.com/user/31e2uphld3nlxackgm2mxijtji6a">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31e2uphld3nlxackgm2mxijtji6a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+    <img src="https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
