@@ -1,5 +1,5 @@
 <h1 align="center">Heya 👋, I'm Noah</h1>
-<h3 align="center">Just a bunch of 1s and 0s pretending to be cool 😎</h3>
+<h3 text-sm align="center">Just a bunch of 1s and 0s pretending to be cool 😎</h3>
 
 ---
 
@@ -20,6 +20,7 @@
 - Typescript (hate it 😑)
 + Nodemon
 + React
++ Python
 + Nextjs
 - Kubernetes (pls no judge 😭)
 + MongoDB
