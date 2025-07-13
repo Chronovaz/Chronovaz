@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👾 I'm Nova (aka chronovaz)</h1>
 <h3 align="center">404 vibes not found | Just a bunch of 1s and 0s with a caffeine addiction ☕</h3>
 
-<!-- Matrix Background Vibes -->
+<!-- Matrix Background -->
 <p align="center">
   <img src="https://i.gifer.com/origin/e3/e3ccab4b83f86b5cf625c462b6f7aa4c.gif" width="100%" />
 </p>
@@ -11,9 +11,9 @@
 ### 🧠 About Me
 
 - 💻 Self-taught dev in a long-term relationship with `console.log()`
-- 🧪 Currently experimenting with React, Next.js, Node.js and backend magic
-- 🎮 Gaming with code like it’s Elden Ring: hard, painful, but satisfying
-- 😵‍💫 Code at 2am hits different
+- 🧪 Building with React, Next.js, Node.js & backend chaos
+- 🎮 Coding like it’s Elden Ring — mostly suffering, sometimes genius
+- 🌙 Night owl with VSCode and lo-fi beats
 
 ---
 
@@ -42,6 +42,16 @@
     <img src="https://anilist-readme-stats.vercel.app/api?username=Chronova&align=center&theme=dark&borderColor=ffffff" />
   </a>
 </p>
+
+---
+
+### 🧍‍♀️ Waifu Vibes
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/bd/5e/8b/bd5e8b52dc3c9e7c420b0de0ef3782b0.gif" width="280px" style="border-radius:10px;" />
+</p>
+
+<p align="center"><i>Dark & chill waifu watching you debug silently 👁️🖤</i></p>
 
 ---
 
