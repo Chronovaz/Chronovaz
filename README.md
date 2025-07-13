@@ -1,9 +1,9 @@
 <h1 align="center">Yo 👾 I'm Nova (aka chronovaz)</h1>
 <h3 align="center">404 vibes not found | Just a bunch of 1s and 0s with a caffeine addiction ☕</h3>
 
-<!-- Matrix Background -->
+<!-- ✅ Matrix Background -->
 <p align="center">
-  <img src="https://pin.it/14mkCA7W0" width="100%" />
+  <img src="https://media.tenor.com/ONZC5p6kuxMAAAAC/matrix-code.gif" width="100%" />
 </p>
 
 ---
@@ -25,13 +25,21 @@
 
 ---
 
+### 🎧 Find Me on Spotify
 
+<p align="center">
+  <a href="https://open.spotify.com/user/31e2uphld3nlxackgm2mxijtji6a">
+    <img src="https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ### 📺 My Anime World
 
 <p align="center">
-  <a href="https://anilist.co/user/chronova/">
-    <img src="https://anilist-readme-stats.vercel.app/api?username=chronova&align=center&theme=dark&borderColor=ffffff" />
+  <a href="https://anilist.co/user/Chronova/">
+    <img src="https://anilist-readme-stats.vercel.app/api?username=Chronova&align=center&theme=dark&borderColor=ffffff" />
   </a>
 </p>
 
@@ -40,7 +48,7 @@
 ### 🧍‍♀️ Waifu Vibes
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bd/5e/8b/bd5e8b52dc3c9e7c420b0de0ef3782b0.gif" width="280px" />
+  <img src="https://media.tenor.com/VkOdsHF-QcMAAAAC/anime-girl.gif" width="280px" />
 </p>
 
 <p align="center"><i>Dark & chill waifu watching you debug silently 👁️🖤</i></p>
