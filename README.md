@@ -1,4 +1,4 @@
-<h2 align="center">Yo 👾 I'm Nova (aka chronovaz)</h2>
+<h2 align="center">Yo 👾 I'm Nova </br>{aka chronovaz}</h2>
 <p align="center">404 vibes not found | Just a bunch of 1s and 0s tryna be cool</p>
 
 <!-- ✅ Matrix Background -->
