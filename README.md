@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👾 I'm Nova (aka chronovaz)</h1>
-<h3 align="center">404 vibes not found | Just a bunch of 1s and 0s with a caffeine addiction ☕</h3>
+<h3 align="center">404 vibes not found | Just a bunch of 1s and 0s tryna be cool</h3>
 
 <!-- ✅ Matrix Background -->
 <p align="center">
@@ -21,16 +21,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,mongodb,vite,tailwind,prisma,git,github,figma&theme=dark" />
-</p>
-
----
-
-### 🎧 Find Me on Spotify
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31e2uphld3nlxackgm2mxijtji6a">
-    <img src="https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
 </p>
 
 ---
